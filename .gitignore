@@ -1,0 +1,22 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# .NET / test artifacts
+project.lock.json
+*.user
+*.suo
+TestResults/
+coverage*.json
+coverage*.xml
+*.trx
+
+# IDE folders
+.vs/
+.idea/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db

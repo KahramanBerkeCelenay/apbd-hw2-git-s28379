@@ -1,0 +1,9 @@
+# Normalize line endings automatically
+* text=auto
+
+# C# source should always use LF in the repository
+*.cs text eol=lf
+
+# Project/solution files
+*.csproj text eol=lf
+*.sln text eol=crlf
